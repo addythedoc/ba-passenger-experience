@@ -5,6 +5,7 @@ The dashboard allows users to explore customer satisfaction across continents, c
 This project highlights skills in Tableau, Data Cleaning, Visualization, Insight Generation, and analytical storytelling.
 
 **📂 Dataset**
+
 Datasets Used:
 
 ba_reviews.csv – Contains detailed review data, ratings, traveller type, seat type, route, aircraft, and recommendation status
