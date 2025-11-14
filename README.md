@@ -1,9 +1,9 @@
-📌 Overview
+**📌 Overview**
 This project explores customer experience and service ratings for British Airways using public review datasets. After downloading the raw Excel/CSV files, I cleaned and prepared the data, joined multiple datasets, and built an interactive Tableau dashboard published on Tableau Public.
 The dashboard allows users to explore customer satisfaction across continents, cabin classes, traveller types, aircraft models, and review timelines.
 This project highlights skills in Tableau, Data Cleaning, Visualization, Insight Generation, and analytical storytelling.
 
-📂 Dataset
+**📂 Dataset**
 Datasets Used:
 ba_reviews.csv – Contains detailed review data, ratings, traveller type, seat type, route, aircraft, and recommendation status
 
@@ -27,7 +27,7 @@ Key areas where British Airways performs well or poorly
 
 
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 Tableau Public – Dashboard creation & interactive visualization
 
 
@@ -40,8 +40,7 @@ Tableau Desktop – Data joining, calculated fields, cleaning filters
 GitHub – Project documentation & sharing
 
 
-
-📘 Project Steps
+**📘 Project Steps**
 1. Data Loading & Cleaning (Excel + Tableau)
 Downloaded CSV datasets
 
@@ -120,7 +119,7 @@ Economy passengers show large variability in ratings vs. Premium/Business Class
 
 
 
-▶ How to View This Project
+▶ **How to View This Project**
 1. View Interactive Dashboard (Recommended)
 👉 https://public.tableau.com/app/profile/aditya.kumar2854/viz/BritishAirwaysExperience_17617518713330/Dashboard1
 2. Explore the Project Files (GitHub Repository)
@@ -138,7 +137,7 @@ Economy passengers show large variability in ratings vs. Premium/Business Class
 
 No installation required — everything is viewable directly.
 
-📧 Contact
+📧 **Contact**
 For questions, collaboration, or feedback:
  Aditya Kumar — Data Analyst | Epidemiology | Tableau | SQL | Python
  📩 Email: neplusultraa@gmail.com
